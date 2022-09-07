@@ -8,4 +8,4 @@
 
 # Screenshot
  
- ![ParrotRepeater_Bot](https://github.com/nikit0ns/Screenshots/blob/860340d69303ed2fe5c654116fe0d27064cf2fa1/Screenshot_38.png)
+ ![ParrotRepeater_Bot](https://github.com/nikit0ns/Screenshots/blob/f67302f9d4fe2cee80b016eaf7e78880b5e43d11/ParrotRepeater_Bot.png)
