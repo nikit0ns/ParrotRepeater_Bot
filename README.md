@@ -6,6 +6,6 @@
 
 ---
 
-# Screenshot
+# Screenshots
  
  ![ParrotRepeater_Bot](https://github.com/nikit0ns/Screenshots/blob/f67302f9d4fe2cee80b016eaf7e78880b5e43d11/ParrotRepeater_Bot.png)
