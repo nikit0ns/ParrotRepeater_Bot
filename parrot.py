@@ -5,7 +5,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 import config
 
-bot = Bot(token=config.TOKEN)
+bot = Bot(token=config.TOKEN) #Ваш токен 
 dp = Dispatcher(bot)
 
 
