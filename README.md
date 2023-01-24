@@ -1,2 +1,12 @@
-# ParrotRepeater_Bot
-A simple Telegram Bot that will repeat all your messages.
+# @ParrotRepeater_Bot - Telegram Bot
+
+- :parrot: A simple Telegram Bot that will repeat all your messages.
+- :video_game: It can be assumed that this is an entertainment bot.
+- :open_file_folder: The Bot has two commands: `/start` and `/help`.
+
+---
+
+# Screenshots
+
+![ParrotRepeater_Bot_Start](https://github.com/nikit0ns/Screenshots/blob/master/ParrotRepeater_Bot_Start.png)
+![ParrotRepeater_Bot_Commands](https://github.com/nikit0ns/Screenshots/blob/master/ParrotRepeater_Bot_Commands.png)
