@@ -8,5 +8,5 @@
 
 # Screenshots
 
-![ParrotRepeater_Bot_Start](https://github.com/nikit0ns/Screenshots/blob/master/ParrotRepeater_Bot_Start.png)
-![ParrotRepeater_Bot_Commands](https://github.com/nikit0ns/Screenshots/blob/master/ParrotRepeater_Bot_Commands.png)
+![ParrotRepeater_Bot_Start](https://github.com/nikit0ns/ParrotRepeater_Bot/blob/master/Screenshots/ParrotRepeater_Bot_Start.png)
+![ParrotRepeater_Bot_Commands](https://github.com/nikit0ns/ParrotRepeater_Bot/blob/master/Screenshots/ParrotRepeater_Bot_Commands.png)
