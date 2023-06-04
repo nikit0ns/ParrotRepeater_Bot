@@ -3,7 +3,7 @@
 - :parrot: A simple Telegram Bot that will repeat all your messages.
 - :video_game: It can be assumed that this is an entertainment bot.
 - :open_file_folder: The Bot has two commands: `/start` , `/help`.
-- :unlock: The Telegram Bot Status: Works On Hosting.
+- :lock: The Telegram Bot Status: Doesn't Work On Hosting.
 
 ---
 
