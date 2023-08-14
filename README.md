@@ -1,6 +1,4 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
-
-# @ParrotRepeater_Bot - Telegram Bot
+# [@ParrotRepeater_Bot](https://t.me/ParrotRepeater_Bot) - Telegram Bot
 
 - :parrot: A simple Telegram Bot that will repeat all your messages.
 - :video_game: It can be assumed that this is an entertainment bot.
